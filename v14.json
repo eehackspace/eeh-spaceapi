@@ -1,0 +1,20 @@
+{
+	"api_compatibility": ["14"],
+	"space": "East Essex Hackspace",
+	"logo": "https://wiki.eehack.space/images/d/df/Eeh_logo_135x135.png",
+	"url": "https://eehack.space",
+	"location": {
+		"address": "Hawkwell Pavilion, Park Gardens, Hockley, SS5 4HF, United Kingdom",
+		"lat": 51.596974,
+		"lon": 0.672686,
+		"timezone": "Europe/London"
+	},
+	"state": {
+		"open": true,
+		"message": "members only"
+	},
+	"contact": {
+		"twitter": "@EEHackSpace",
+		"facebook": "https://www.facebook.com/groups/eastessexhackspace"
+	}
+}
